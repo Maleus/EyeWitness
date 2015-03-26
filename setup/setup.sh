@@ -28,12 +28,21 @@ case ${osinfo} in
   Kali)
     echo '[*] Installing Kali Dependencies'
     apt-get install python-qt4 python-pip xvfb
+    pip install selenium
+    pip install fuzzywuzzy
     echo '[*] Cloning and installing Ghost'
     git clone https://github.com/ChrisTruncer/Ghost.py.git
     cd Ghost.py
     python setup.py install
     cd ..
     rm -rf Ghost.py
+    echo '[*] Cloning and installing rdpy'
+    git clone https://github.com/ChrisTruncer/rdpy.git
+    cd rdpy
+    git checkout -B hotfix origin/hotfix
+    python setup.py install
+    cd ..
+    rm -rf rdpy
   ;;
   # Debian 7+ Dependency Installation
   Debian)
@@ -42,6 +51,8 @@ case ${osinfo} in
     echo
     echo '[*] Installing Python Modules'
     pip install python_qt_binding
+    pip install selenium
+    pip install fuzzywuzzy
     echo
     echo '[*] Cloning and installing Ghost'
     git clone https://github.com/ChrisTruncer/Ghost.py.git
@@ -49,6 +60,13 @@ case ${osinfo} in
     python setup.py install
     cd ..
     rm -rf Ghost.py
+    echo '[*] Cloning and installing rdpy'
+    git clone https://github.com/ChrisTruncer/rdpy.git
+    cd rdpy
+    git checkout -B hotfix origin/hotfix
+    python setup.py install
+    cd ..
+    rm -rf rdpy
   ;;
   # Ubuntu (tested in 13.10) Dependency Installation
   Ubuntu)
@@ -57,6 +75,8 @@ case ${osinfo} in
     echo
     echo '[*] Installing Python Modules'
     pip install python_qt_binding
+    pip install selenium
+    pip install fuzzywuzzy
     echo
     echo '[*] Cloning and installing Ghost'
     git clone https://github.com/ChrisTruncer/Ghost.py.git
@@ -64,6 +84,13 @@ case ${osinfo} in
     python setup.py install
     cd ..
     rm -rf Ghost.py
+    echo '[*] Cloning and installing rdpy'
+    git clone https://github.com/ChrisTruncer/rdpy.git
+    cd rdpy
+    git checkout -B hotfix origin/hotfix
+    python setup.py install
+    cd ..
+    rm -rf rdpy
   ;;
   # CentOS 6.5+ Dependency Installation
   CentOS)
@@ -81,6 +108,8 @@ case ${osinfo} in
     echo
     echo '[*] Installing Python Modules'
     pip install python_qt_binding
+    pip install selenium
+    pip install fuzzywuzzy
     echo
     echo '[*] Cloning and installing Ghost'
     git clone https://github.com/ChrisTruncer/Ghost.py.git
@@ -88,6 +117,13 @@ case ${osinfo} in
     python setup.py install
     cd ..
     rm -rf Ghost.py
+    echo '[*] Cloning and installing rdpy'
+    git clone https://github.com/ChrisTruncer/rdpy.git
+    cd rdpy
+    git checkout -B hotfix origin/hotfix
+    python setup.py install
+    cd ..
+    rm -rf rdpy
   ;;
   # Notify Manual Installation Requirement And Exit
   *)

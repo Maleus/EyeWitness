@@ -80,20 +80,3 @@ Symmetricom SyncServer S100;var serverName;function usernameKey;function answerK
 KYOCERA;idxlang;opt_msg1_;startwlm|Kyocera Printer (General) Admin/Admin
 Top Page - MX-M465N;class="modelName">MX-M465N</div>;delta_close.gif;name="updatebtn" type="button"|SHARP MX-M456N Printer admin/admin
 NetGear GS108T;class="logoNetGear space50Percent topAlign;class="logoNetGear space50Percent topAlign|Netgear GS108T Switch <nousername>/password
-airos_logo.png;form enctype="multipart/form-data" id="loginform" method="post";align="center" class="loginsubtable";function onLangChange()|AirOS ubnt/ubnt
-Any time &amp; Any where;IP Surveillance for Your Life;form name="myForm" method="POST" target="_top" onSubmit="return check();function createHttpRequestObj()|DVR (AV760 DVR) admin/admin or admin,/admin
-Grandstream Device Configuration;action="dologin" method="post" name="loginForm";All Rights Reserved Grandstream Networks|GrandStream Device Admin User: <nouser>/admin  End User: <nouser>/123
-DSL-2640U;input type="checkbox" class="remb"> <span class="remember">Remember me</span>;id="A2" name="A2" type="password" maxlength="30"|D-Link DSL-2640U admin/admin
-a href="http://mikrotik.com"><img src="mikrotik_logo.png";You have connected to a router. Administrative access only. If this device is not in your possession, please contact your local network administrator;<td colspan="3"><h2>WebFig Login:</h2>|Mikrotik Router admin/<nopassword>
-loginPassword.value = "ZyXEL ZyWALL Series";P-660RU-T1 v2;function passwordMD5(str);function LoginClick(hiddenPassword, loginPassword)|P-660RU-T1 v2 Ethernet/USB Router <nousername>/1234
-function hex_md5(s) { return binl2hex(core_md5(str2binl(s), s.length * chrsz));bit_rol(;Welcome to the  Web Configurator;OX253P|OX253P Router admin/admin admin/1234
-var kerio = {lib:{};kerio.engine.acceptedLanguages;upper-message-container;action="/server/login" method="post" id="container"|Kerio Control Device admin/<passwordofadminuseronbox>
-meta name="SonicWALL Administrator" content;<title>SonicWALL - Authentication</title>;window.onunload=onPageUnload;"auth1.html" name="authFrm"|SonicWall Device admin/password
-D-Link VoIP Router;frameset framespacing="0" frameborder="0" rows="0,*";fxdriver-screenshot-canvas" style="display: none;script src="util.js" language="JavaScript"></script>|DVG-5402SP admin/<nopassword>
-mikrotik routeros > administration;form name="loginForm" action="/cfg" method="post" onsubmit="doLogin();mikrotik routeros;configuration page|Mikrotik Routeros admin/<nopassword>
-Grandstream Device Configuration;form action="/cgi-bin/dologin" method="post" name="loginForm";All Rights Reserved Grandstream Networks;input name="P2" type=password size=30 maxlength=30|Grandstream Networks: <nouser>/admin or <nouser>/123
-HP Color LaserJet CP3505;input name="btnContinue"  type="image";img class="hpPageImage" src="images/question.gif" alt="On-line help|HP Color Jet CP3505 Printer <no admin username or password>
-ATEN International Co Ltd;body onload='PageInit();form name="form1" action="/cgi/login.cgi" method="post";img src="../images/logo.gif" style="margin;alert(lang.LANG_LOGIN_INVALID_USERNAME);document.getElementById("login_word")|Possible SuperMicro IPMI ADMIN/ADMIN (Creds need confirming)
-Welcome to the Web-Based Configurator;function str2blks_MD5(str);loginPassword.value = "ZyXEL ZyWALL Series";Prestige_Login" value="Login"|Zyxel P-660HW-T1 <nousername>/1234
-<meta http-equiv="refresh" content="0;url=/designs/imm/noscript/noscript_en.php";meta http-equiv="Content-Type" content="text/html;@import "/designs/ibmdojo/dojo/resources/dojo.css";@import "/designs/imm/login.css"|IBM Integrated Management Module USERID\PASSW0RD
-var slControl = new ActiveXObject('AgControl.AgControl');form name="Form1" method="post" action="Default.aspx" id="Form1";<title>AxisTV</title>|AxisTV Login administrator/tech
