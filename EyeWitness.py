@@ -1528,7 +1528,7 @@ def target_creator(command_line_object):
         # (@jasonhillva)
         http_ports = [80, 8000, 8080, 8081, 8082, 8888]
         https_ports = [443, 8443, 9443]
-        rdp_port = [3389]
+        rdp_ports = [3389]
         vnc_ports = [5900, 5901]
 
         try:
